@@ -1,0 +1,3 @@
+instance/
+pyproject.toml 
+*/__pycache__/
